@@ -11,7 +11,7 @@ The susceptible who are connected to Infected have the 0.6 probability of gettin
 
 An infected person has a 0.85 probability of getting recovered in 1 timestamp.
 
-#Description of files
+Description of files
 
 PowerData.csv - It contains the details of edges.
 
