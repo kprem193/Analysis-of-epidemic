@@ -1,8 +1,10 @@
 # Analysis-of-epidemic
-It shows the variation of no of people susceptible,infected and recovered of disease. 
+It shows the variation of no of people susceptible,infected and recovered of a disease. 
+
 In our datasets we have three types of people(nodes).
-Susceptible - who are prone to disease.
-Infected - Who have the disease and can spread.
+
+Susceptible - who are prone to the disease.
+Infected - Who have the disease and can spread it.
 Recovered - Who either got vaccinated after having the disease or have died.
 
 In our data set we had 4920 nodes and there were 13688 edges between them.
